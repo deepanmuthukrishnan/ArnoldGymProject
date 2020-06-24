@@ -1,15 +1,13 @@
 ## Info
-Pay :- ₹ 100 For India Users https://imjo.in/QDdBze for getting database scripts.
-
-Pay :- $ 3.00 here  https://payhip.com/b/vJ1L for getting database scripts.
 
 
-# Angular 7 Project with ASP.NET CORE APIS (GYM PROJECT)
+
+# Angular 7 Project with ASP.NET CORE APIS (Arnold GYM PROJECT)
 
 <img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
-## If you are looking for Complete ASP.NET CORE Project with Angular 7 Here is link for it 
-[Link of Project](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project)
+
+
 
 
 ## Getting Started
@@ -31,7 +29,7 @@ The project has 3 parts
 3.	SQL server for database parts
 
 ### Download Database of Project
-Link to download :- https://payhip.com/b/vJ1L
+
 
 ### About Platform Used 
 Angular Version Used 7.0.4 and CLI version 7.0.6
@@ -89,4 +87,4 @@ Password :- 123456<br>
 
 ## If you are new to Angular Must Watch Video How to Learn Angular in 1 hour
 
-[![Learn Angular](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/hqdefault.jpg)](https://www.youtube.com/watch?v=FV2MXOygDTM "Learn Angular")
+
